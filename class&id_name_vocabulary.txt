@@ -1,0 +1,80 @@
+[枠組み]
+ヘッダー	header	ヘッダーに使用
+フッター	footer	フッターに使用
+ナビゲーション	nav	ナビゲーションに使用
+ハンバーガー	hamburger 	ハンバーガーメニューに使用
+メイン	main	メイン要素に使用
+セクション	section	セクションに使用
+リスト（ul, ol）	list, list-group	ul, olリストに使用
+説明リスト（dl）	description-list	説明リスト（dl）に使用
+説明リスト（dt）	description-list-term	説明リスト（dt）に使用
+説明リスト（dd）	description-list-definition	説明リスト（dd）に使用
+コンテナ	container	コンテナに使用
+コンテンツ	content	コンテンツに使用
+アイテム	item	子要素に使用
+ボディ	body	子要素に使用
+内側の要素	inner	内側の要素に使用
+外側の要素	outer	外側の要素に使用
+行	row	行の要素に使用
+列	column	列の要素に使用
+
+[要素]
+テキスト	text, txt	テキスト、文章に使用
+画像	image, img, thumbnail	画像に使用
+線	line	線に使用
+タイトル	title	タイトルに使用
+サブタイトル	subtitle	サブタイトルに使用
+見出し	heading, caption	見出しに使用
+説明	description	説明に使用
+アイコン	icon, ico	アイコンに使用
+マーカー	marker	マーカーに使用
+リンク	link	リンクに使用
+英語表記	en	英語表記に使用
+日付	date	日付に使用
+コピーライト	copyright	コピーライト表記に使用
+注釈	annotation	注釈に使用
+
+[部品]
+ロゴ	logo	ロゴに使用
+ボタン	button, btn	ボタンに使用
+バッジ	badge	バッジに使用
+パンくずリスト	breadcrumb	パンくずリストに使用
+カード	card	カードに使用
+タブ	tab	タブに使用
+
+[配置・形状]
+flexbox	flex	display: flex;を指定する要素に使用
+インライン要素	inline	display: inline;を指定する要素に使用
+ブロック要素	block	display: block;を指定する要素に使用
+角丸	round	角丸要素に使用
+円	circle	円の要素に使用
+ボックス	box	四角などの箱や枠の要素に使用
+バー	bar	棒状の要素に使用
+左	left	左配置の要素に使用
+中央	center	中央配置の要素に使用
+右	right	右配置の要素に使用
+上	top	上配置の要素に使用
+下	bottom	下配置の要素に使用
+短い	short	短い要素に使用
+長い	long	長い要素に使用
+大きい	big	大きい要素に使用
+小さい	small	小さい要素に使用
+水平	horizontal	水平要素に使用
+垂直	vertical	垂直要素に使用
+逆順	reverse	逆順にする要素に使用
+1番目	first	1番目の要素に使用
+2番目	second	2番目の要素に使用
+3番目	third	3番目の要素に使用
+SP表示	sp	スマートフォン（SP）表示用の指定に使用
+PC表示	pc	PC表示用の指定に使用
+
+[状態]
+状態の接頭辞	is-	状態の接頭辞に使用
+アクティブ状態	active	アクティブ状態に使用
+表示状態	visible	表示状態に使用
+非表示状態	hidden	非表示状態に使用
+有効状態	enabled	有効状態に使用
+無効状態	disabled	無効状態に使用
+
+[JS]
+JavaScript、jQuery	js-	JavaScript、jQuery要素の接頭辞に使用
